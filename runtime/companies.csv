@@ -1,0 +1,7 @@
+CompanyName,Revenue,IsProfitable
+"Company 1",100,true
+"Company foo 1",101,true
+"Company foo 2",102,false
+"Company foo 3",103,true
+"Company foo 4",104,true
+"Company foo 5",105,true

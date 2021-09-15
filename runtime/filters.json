@@ -1,0 +1,9 @@
+[
+  {
+    "filterType": "NameContains",
+    "text": "foo"
+  },
+  {
+    "filterType": "IsProfitable"
+  }
+]
